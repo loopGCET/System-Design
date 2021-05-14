@@ -13,4 +13,4 @@ This is generally asked from experienced candidates, usually 2-3 years experienc
     * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 
 * System Design Communities: 
-   * <a href = "https://sdeskills.com/discord"  target="_blank">SDE Skills </a>
+   * <a href = "https://sdeskills.com/discord"  target="_blank">SDE Skills Discord Server</a>
