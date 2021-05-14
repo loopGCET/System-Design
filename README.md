@@ -7,14 +7,14 @@ This is generally asked from experienced candidates , usually 2-3 years experien
 
 ## Resources
 
+* System Design Primer Github :  <a href="https://github.com/donnemartin/system-design-primer"> System Design </a>
+
+
 * <a href="https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf">Designing Data Intensive Applications</a> -- Holy Book for System Design 
 
 * Community - <a href = "https://www.sdeskills.com/" >SDE Skills </a>
 
 * DNS 
     * <a href ="https://www.youtube.com/watch?v=mpQZVYPuDGU">What is DNS and how does it work?</a>
-
-* System Design Primer Github :  <a href="https://github.com/donnemartin/system-design-primer"> System Design </a>
-
 * CAP Theorem:
     * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
