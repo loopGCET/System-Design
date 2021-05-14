@@ -11,8 +11,8 @@ This is generally asked from experienced candidates , usually 2-3 years experien
 
 * Community - <a href = "https://www.sdeskills.com/" >SDE Skills </a>
 
-* Video Lectures System Design (HLD) 
-    * https://www.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg
+* DNS 
+    * <a href ="https://www.youtube.com/watch?v=mpQZVYPuDGU">What is DNS and how does it work?</a>
 
 * System Design Primer Github :  <a href="https://github.com/donnemartin/system-design-primer"> System Design </a>
 
