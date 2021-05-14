@@ -1,7 +1,7 @@
 # System-Design
 
 System Design problems are very open ended in terms like you are given a problem and based on  the requirement you need to come up with the possible solution which can scale.
-This is generally asked from experienced candidates , usually 2-3 years experienced. 
+This is generally asked from experienced candidates, usually 2-3 years experienced. 
 
 
 * System Design Primer Github:  <a href="https://github.com/donnemartin/system-design-primer"> System Design </a>
